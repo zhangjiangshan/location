@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0">
+    <name>Example gpx</name>
+    <wpt lat="39.983445" lon="116.304852">
+        <ele>2372</ele>
+        <name>理想国际</name>
+    </wpt>
+</gpx>
